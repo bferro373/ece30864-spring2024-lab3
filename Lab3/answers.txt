@@ -1,0 +1,4 @@
+Question 1- In a non-Agile project, who is equivalent to the product owner? Explain the role and need of the Product Owner in Agile Methodology
+
+Answer: In a Non-Agile Project- The Project Manager is the equivalent to the Product Owner. The Role of a Product Owner in Agile Methodology is to be the voice of the 
+        Customer and the business in an agile project. They are the main source of feedback for a team and they set the vision of the project.
