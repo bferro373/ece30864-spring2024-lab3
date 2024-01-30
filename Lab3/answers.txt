@@ -13,3 +13,11 @@ Answer: The 3 types of meetings are: Sprint Planning Meeting, Daily Scrum/Standu
         need to be discussed are Determining what to complete in the coming sprint and Determining story points and assign stories to team. During a Daily Scrum Meeting, two points
         that need to be discussed are discussing work completed and work plan for the day. During the Sprint Retrospective Meeting, Two points that need to be discussed are Discussing 
         work completed and moving incomplete work to the backlog.
+
+Question 4: Differentiate between Epic, Story, Bug, and Task issue types in JIRA
+
+Answer:
+-Epic: Captures a large body of work that can be broken down into several smaller stories
+-Story: A software system requirement that is expressed in a few short sentences.
+-Bug: Notify that the Task/Story has a Bug within its implemenation.
+-Task: Specific aspects of a story that shouldn't take more than a day to work on.
