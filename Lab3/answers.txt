@@ -6,3 +6,10 @@ Answer: In a Non-Agile Project- The Project Manager is the equivalent to the Pro
 Quesiton 2- Explain the role and responsibilities of the Scrum Master vs the Product Owner
 
 Answer: The Scrum Master leads the development team and relays updates to the Product Owner. The Product Owner manages the backlog, and provides feedback to the Project.
+
+Question 3- What are the 3 types of meetings that happen during a sprint cycle? List at least 2 points on what needs to be discussed during each of these meetings
+
+Answer: The 3 types of meetings are: Sprint Planning Meeting, Daily Scrum/Standup Meeting, Sprint Retrospective Meeting. During the Sprint Planning meeting, Two points that
+        need to be discussed are Determining what to complete in the coming sprint and Determining story points and assign stories to team. During a Daily Scrum Meeting, two points
+        that need to be discussed are discussing work completed and work plan for the day. During the Sprint Retrospective Meeting, Two points that need to be discussed are Discussing 
+        work completed and moving incomplete work to the backlog.
